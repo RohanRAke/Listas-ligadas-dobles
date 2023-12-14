@@ -1,6 +1,4 @@
-
-// This class represents a doubly linked list with more efficient structure
-
+// This class represents a doubly linked list with a more efficient structure
 public class ListaDoble {
 
     // Top pointers for forward and backward traversal
